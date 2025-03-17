@@ -1,21 +1,21 @@
 languageCode = "it"
 languageName = "Italiano"
 weight = 2
-title = "Blowfish"
+title = "L'orizzonte nascosto lontano"
 
 [params]
   displayName = "Italiano"
   isoCode = "it"
   rtl = false
   dateFormat = "2 January 2006"
-  logo = "img/blowfish_logo_transparent.png"
+  logo = "img/logo con sito phot" 
   description = "Un potente, leggero tema per Hugo."
 
 [params.author]
-  name = "Blowfish"
-  image = "img/blowfish_logo.png"
-  headline = "Un potente, leggero tema per Hugo."
-  bio = "Un potente, leggero tema per Hugo."
+  name = "L'orizzonte nascosto lontano"
+  image = "img/logo per museo nazionale del Bargello.png"
+  headline = "vieni a salpare l'onda nascosta con noi."
+  bio = "Leggende sui pirati."
   links = [
     { x-twitter = "https://twitter.com/burufugu" },
     { github = "https://github.com/nunocoracao/blowfish" },

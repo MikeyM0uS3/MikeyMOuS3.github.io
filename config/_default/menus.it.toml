@@ -11,44 +11,44 @@
 # ordered by weight from lowest to highest.
 
 [[main]]
-  name = "Documenti"
+  name = "Pergamene (leggende)"
   pageRef = "docs"
   weight = 10
 
 [[main]]
-  name = "Shortcodes"
+  name = "Tavola dei pirati"
   pageRef = "docs/shortcodes"
   weight = 15
 
 [[main]]
-  name = "Esempi"
+  name = "Navi incisive"
   weight = 20
 
 [[main]]
-  name = "Campioni"
+  name = "Battaglie"
   parent = "Esempi"
   pageRef = "samples"
-  weight = 16
+  weight = 25
 
 [[main]]
-  name = "Vetrina"
+  name = "nchebdhdbb"
   parent = "Esempi"
   pageRef = "examples"
   weight = 30
 
 [[main]]
-  name = "Ricette"
+  name = "Mappa dei tesori"
   parent = "Esempi"
   pageRef = "guides"
   weight = 40
 
 [[main]]
-  name = "Utenti"
+  name = "Mappa dei tesori"
   pageRef = "users"
   weight = 90
 
 [[main]]
-  name = "Merch"
+  name = "  Informazioni per la mostra"
   url = "https://www.teepublic.com/user/blowfish-store/t-shirts"
   weight = 100
 
